@@ -1,15 +1,7 @@
 # .teammates - list of all teammates for pairing and ones in rotation (Not avlaible to pair)
 teammates:
   # - <Firstname> <Lastname>
-  - Robert Kent McArthur
-  - Matt Warren
-  - Alvaro Ramirez
-  - Robert Baker
-  - Sankar Arunachalam
-  - Sheetal Pole
-  - Sreekantha Kumara
-  - Chuma Chuma-obi
-  - Nandhakumar Srinivasion
+  - Matt Topher1
+
 in_rotation:
-  - Frank Lamer
-  - Marc Harrison
+  - Matt Topher2
