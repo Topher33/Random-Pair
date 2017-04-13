@@ -1,18 +1,15 @@
-# .teammates - list of all teammates for pairing
+# .teammates - list of all teammates for pairing and ones in rotation (Not avlaible to pair)
 teammates:
-  # <initials>: <Firstname> <Lastname>[; <email-id>]
-  km: Robert Kent McArthur; robert_k_mcarthur
-  mw: Matt Warren; matthew_warren
-  ar: Alvaro Ramirez; ALVARO_RAMIREZ-DELVILLAR
-  rb: Robert Baker; robert_baker
-  sa: Sankar Arunachalam; Sankar_Arunachalam
-  sp: Sheetal Pole; sheetal_b_pole
-  sk: Sreekantha Kumara; jaya_sreekantha_kumara_v
-  co: Chuma Chuma-obi; chuma_chuma-obi
-  ns: Nandhakumar Srinivasion; NANDHAKUMAR_SRINIVASAN
+  # - <Firstname> <Lastname>
+  - Robert Kent McArthur
+  - Matt Warren
+  - Alvaro Ramirez
+  - Robert Baker
+  - Sankar Arunachalam
+  - Sheetal Pole
+  - Sreekantha Kumara
+  - Chuma Chuma-obi
+  - Nandhakumar Srinivasion
 in_rotation:
-  fl: Frank Lamer; FRANKIE_LAMAR
-  mh: Marc Harrison; Marc_Harrisons
-email:
-  domain: homedepot.com
-  solo_ok?: false
+  - Frank Lamer
+  - Marc Harrison
